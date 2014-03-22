@@ -1,6 +1,6 @@
 # Xcode Snippets
 
-We use a few code snippets I have in my Xcode arsenal. 
+We use a few code snippets in Xcode. 
 
 ---
 
